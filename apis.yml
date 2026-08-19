@@ -30,7 +30,7 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 x-status: defunct
 x-status-detail: Acquired by Jive Software in 2013; no live product, domain, or API surface.
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-21'
 tags:
